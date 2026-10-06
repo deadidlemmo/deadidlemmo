@@ -21,7 +21,7 @@
 | [**MMORPG Idle Zumbi**](https://github.com/deadidlemmo/mmorpg-idle-zumbi) | Jogo de sobrevivência com progressão idle, combate, coleta, criação de itens e eventos em tempo real. [Jogar](https://deadidle.pages.dev/) | React, TypeScript, NestJS, Prisma, PostgreSQL, Redis |
 | [**Secretaria PADIN**](https://github.com/deadidlemmo/secretariapadin) | Ferramentas para documentos, carteirinhas, planilhas e conferência de listas escolares. | Python, Flask, pandas, openpyxl |
 | [**Gestão PADIN**](https://github.com/deadidlemmo/gestao-padin) | Sistema interno para solicitações, banco de horas, relatórios e comunicação da unidade escolar. | Python, Flask, HTML |
-| [**Nilux TV Site**](https://github.com/deadidlemmo/nilux-tv-site) | Página de planos e checkout integrada a um Worker de pagamentos. | JavaScript, Cloudflare Workers, D1 |
+| [**Nilux TV Site**](https://github.com/deadidlemmo/nilux-tv-site) | Página de planos com fluxo de checkout preparado para um Worker de pagamentos. | JavaScript, Cloudflare Workers, D1 |
 
 ## Como eu trabalho
 
@@ -31,8 +31,9 @@
 
 ## Tecnologias
 
-**Frontend:** React · TypeScript · JavaScript · HTML · CSS  
-**Backend e dados:** Python · Flask · NestJS · PostgreSQL · Prisma · Redis  
+**Frontend:** React · TypeScript · JavaScript · HTML · CSS
+
+**Backend e dados:** Python · Flask · NestJS · PostgreSQL · Prisma · Redis
 **Entrega:** GitHub Actions · Docker · Cloudflare Workers e Pages
 
 ## Explore
