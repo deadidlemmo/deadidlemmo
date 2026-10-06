@@ -1,5 +1,7 @@
 <p align="center">
   <img src="assets/profile-banner.svg" alt="Nilson Cruz — desenvolvimento web, educação e jogos" width="100%" />
+  <br />
+  <img src="assets/intro-frame-top.svg" alt="" width="100%" />
 </p>
 
 <h1 align="center">Olá, eu sou Nilson Cruz 👋</h1>
@@ -8,6 +10,8 @@
   Desenvolvo sistemas web para simplificar rotinas de trabalho e criar experiências digitais.<br />
   Meus projetos unem educação, automação e jogos.
 </p>
+
+<p align="center"><img src="assets/intro-frame-bottom.svg" alt="" width="100%" /></p>
 
 <p align="center">
   <a href="https://github.com/deadidlemmo?tab=repositories"><img alt="Ver repositórios no GitHub" src="https://img.shields.io/badge/Meus_repositórios-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>

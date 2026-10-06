@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="30" viewBox="0 0 1200 30" role="img" aria-label="Divisória superior verde">
+  <path d="M6 29V10Q6 5 11 5H1189Q1194 5 1194 10V29" fill="none" stroke="#3e5d3e" stroke-width="2"/>
+  <path d="M6 5H430" stroke="#9cdd64" stroke-width="4"/>
+  <path d="M994 5H1194" stroke="#6e9f43" stroke-width="4"/>
+</svg>
