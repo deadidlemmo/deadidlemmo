@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/deadidlemmo"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+  <a href="https://github.com/deadidlemmo?tab=repositories"><img alt="Repositórios no GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
   <a href="https://deadidle.pages.dev/"><img alt="Jogar Dead Idle" src="https://img.shields.io/badge/Jogar_Dead_Idle-0B5E50?style=for-the-badge&amp;logo=gamejolt&amp;logoColor=white" /></a>
 </p>
 
