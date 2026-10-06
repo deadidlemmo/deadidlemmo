@@ -43,7 +43,7 @@
 
 ## Projetos em destaque
 
-<p align="center"><a href="https://github.com/deadidlemmo/mmorpg-idle-zumbi"><img src="assets/project-dead-idle-v2.svg" alt="Dead Idle MMO — abrir repositório" width="100%" /></a></p>
+<p align="center"><a href="https://github.com/deadidlemmo/mmorpg-idle-zumbi"><img src="assets/project-dead-idle-v3.svg" alt="Dead Idle MMO — abrir repositório" width="100%" /></a></p>
 
 <p align="center">
   <a href="https://github.com/deadidlemmo/mmorpg-idle-zumbi"><img src="assets/view-code.svg" alt="Ver código do Dead Idle MMO no GitHub" width="220" /></a>
