@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="44" viewBox="0 0 220 44" role="img" aria-label="Jogar Dead Idle MMO agora">
+  <rect x="1" y="1" width="218" height="42" rx="8" fill="#6e9f43" stroke="#9cdd64" stroke-width="2"/>
+  <path d="M21 14l14 8-14 8z" fill="#0d1117"/>
+  <text x="46" y="28" fill="#0d1117" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">JOGAR AGORA</text>
+  <path d="M190 15h10v10m-10 0l10-10" fill="none" stroke="#0d1117" stroke-width="2"/>
+</svg>

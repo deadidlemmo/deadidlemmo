@@ -43,15 +43,17 @@
 
 ## Projetos em destaque
 
-### [Dead Idle MMO](https://github.com/deadidlemmo/mmorpg-idle-zumbi) · [Jogar](https://deadidle.pages.dev/)
+<p align="center"><a href="https://github.com/deadidlemmo/mmorpg-idle-zumbi"><img src="assets/project-dead-idle.svg" alt="Dead Idle MMO — abrir repositório" width="100%" /></a></p>
+
+<p align="center"><a href="https://deadidle.pages.dev/"><img src="assets/play-dead-idle.svg" alt="Jogar Dead Idle MMO agora" width="220" /></a></p>
 
 Um jogo online de sobrevivência com progressão idle, combate, coleta, criação de itens e eventos em tempo real. **React · TypeScript · NestJS · Prisma · PostgreSQL · Redis**
 
-### [Secretaria Padin](https://github.com/deadidlemmo/secretariapadin)
+<p align="center"><a href="https://github.com/deadidlemmo/secretariapadin"><img src="assets/project-secretaria-padin.svg" alt="Secretaria Padin — abrir repositório" width="100%" /></a></p>
 
 Um sistema para gerar documentos e carteirinhas, organizar planilhas e conferir listas escolares. **Python · Flask · pandas · openpyxl**
 
-### [Gestão Padin](https://github.com/deadidlemmo/gestao-padin)
+<p align="center"><a href="https://github.com/deadidlemmo/gestao-padin"><img src="assets/project-gestao-padin.svg" alt="Gestão Padin — abrir repositório" width="100%" /></a></p>
 
 Uma central interna para solicitações, banco de horas, relatórios e comunicação da unidade escolar. **Python · Flask · SQLAlchemy · HTML**
 
