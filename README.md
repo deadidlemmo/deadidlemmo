@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/deadidlemmo?tab=repositories"><img alt="Ver repositórios no GitHub" src="https://img.shields.io/badge/Meus_repositórios-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-  <a href="https://deadidle.pages.dev/"><img alt="Jogar Dead Idle MMO" src="https://img.shields.io/badge/Jogar_Dead_Idle_MMO-0B5E50?style=for-the-badge&amp;logo=gamejolt&amp;logoColor=white" /></a>
+  <a href="https://deadidle.pages.dev/"><img alt="Jogar Dead Idle MMO" src="https://img.shields.io/badge/Jogar_Dead_Idle_MMO-6E9F43?style=for-the-badge&amp;logo=gamejolt&amp;logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ Uma central interna para solicitações, banco de horas, relatórios e comunica�
 <h3 align="center">Linguagens dos repositórios públicos</h3>
 
 <p align="center">
-  <a href="https://github.com/deadidlemmo?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadidlemmo&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=6&amp;locale=pt-br" alt="Linguagens nos repositórios públicos de Nilson Cruz" width="360" /></a>
+  <a href="https://github.com/deadidlemmo?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadidlemmo&amp;layout=compact&amp;langs_count=6&amp;locale=pt-br&amp;title_color=9CDD64&amp;text_color=C9D1D9&amp;bg_color=161B22&amp;border_color=30363D" alt="Linguagens nos repositórios públicos de Nilson Cruz" width="360" /></a>
 </p>
 
 <sub>Ícones de tecnologias: <a href="https://github.com/devicons/devicon">Devicon</a> (licença MIT em <a href="assets/tech-icons/LICENSE">assets/tech-icons/LICENSE</a>).</sub>
