@@ -53,19 +53,17 @@ Uma central interna para solicitações, banco de horas, relatórios e comunica�
 
 ## Atividade no GitHub
 
-<p>Contribuições e linguagens dos meus repositórios públicos. Os números são atualizados pelo serviço dos cartões e podem levar algum tempo para refletir mudanças recentes.</p>
+<p>O gráfico de contribuições do próprio GitHub aparece logo abaixo deste README. Ele mostra a evolução da atividade ao longo do ano.</p>
 
 <p align="center">
-  <a href="https://github.com/deadidlemmo?tab=overview"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=deadidlemmo&amp;show_icons=true&amp;hide=stars,prs,issues,contribs&amp;hide_rank=true&amp;theme=tokyonight&amp;locale=pt-br" />
-    <img src="https://github-readme-stats.vercel.app/api?username=deadidlemmo&amp;show_icons=true&amp;hide=stars,prs,issues,contribs&amp;hide_rank=true&amp;theme=default&amp;locale=pt-br" alt="Contribuições públicas de Nilson Cruz no GitHub" width="420" />
-  </picture></a>
-  <a href="https://github.com/deadidlemmo?tab=repositories"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deadidlemmo&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=6&amp;locale=pt-br" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadidlemmo&amp;layout=compact&amp;theme=default&amp;langs_count=6&amp;locale=pt-br" alt="Linguagens nos repositórios públicos de Nilson Cruz" width="330" />
-  </picture></a>
+  <a href="https://github.com/deadidlemmo?tab=overview">Ver contribuições e atividade recente</a> ·
+  <a href="https://github.com/deadidlemmo?tab=repositories">Explorar repositórios</a>
 </p>
 
-<p align="center"><a href="https://github.com/deadidlemmo?tab=overview">Ver o histórico de contribuições no GitHub →</a></p>
+<h3 align="center">Linguagens dos repositórios públicos</h3>
+
+<p align="center">
+  <a href="https://github.com/deadidlemmo?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadidlemmo&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=6&amp;locale=pt-br" alt="Linguagens nos repositórios públicos de Nilson Cruz" width="360" /></a>
+</p>
 
 <sub>Ícones de tecnologias: <a href="https://github.com/devicons/devicon">Devicon</a> (licença MIT em <a href="assets/tech-icons/LICENSE">assets/tech-icons/LICENSE</a>).</sub>
