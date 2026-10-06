@@ -21,6 +21,7 @@
 <p align="center">
   <a href="#tecnologias"><img src="assets/nav-technologies.svg" alt="Ir para Tecnologias" width="122" /></a>
   <a href="#projetos-em-destaque"><img src="assets/nav-projects.svg" alt="Ir para Projetos" width="122" /></a>
+  <a href="#scripts-e-automações"><img src="assets/nav-scripts.svg" alt="Ir para Scripts" width="122" /></a>
   <a href="#atividade-no-github"><img src="assets/nav-activity.svg" alt="Ir para Atividade" width="122" /></a>
 </p>
 
@@ -63,6 +64,28 @@ Um sistema para gerar documentos e carteirinhas, organizar planilhas e conferir 
 <p align="center"><a href="https://github.com/deadidlemmo/gestao-padin"><img src="assets/view-code.svg" alt="Ver código da Gestão Padin no GitHub" width="220" /></a></p>
 
 Uma central interna para solicitações, banco de horas, relatórios e comunicação da unidade escolar. **Python · Flask · SQLAlchemy · HTML**
+
+## Scripts e automações
+
+Ferramentas para facilitar rotinas em sistemas existentes. São projetos independentes executados no navegador com **JavaScript · Tampermonkey**.
+
+<p align="center"><a href="https://github.com/deadidlemmo/horas-extras-userscript"><img src="assets/project-horas-extras.svg" alt="Horas Extras — abrir repositório" width="100%" /></a></p>
+
+<p align="center"><a href="https://github.com/deadidlemmo/horas-extras-userscript"><img src="assets/view-code.svg" alt="Ver código do userscript Horas Extras" width="220" /></a></p>
+
+Cadastro de vários dias em lote, consulta, conferência de registros e apoio à recuperação de operações incertas. **Versão beta 4.6.0-beta.18.**
+
+<p align="center"><a href="https://github.com/deadidlemmo/sau-ocorrencias-userscript"><img src="assets/project-sau.svg" alt="S.A.U. Minhas Ocorrências — abrir repositório" width="100%" /></a></p>
+
+<p align="center"><a href="https://github.com/deadidlemmo/sau-ocorrencias-userscript"><img src="assets/view-code.svg" alt="Ver código do userscript S.A.U. Minhas Ocorrências" width="220" /></a></p>
+
+Pesquisa, filtros, histórico e prévia de ocorrências na interface do S.A.U. **Versão 1.0.1 em validação interna.**
+
+<p align="center"><a href="https://github.com/deadidlemmo/assistente-ponto-eletronico"><img src="assets/project-ponto.svg" alt="Assistente de Ponto Eletrônico — abrir repositório" width="100%" /></a></p>
+
+<p align="center"><a href="https://github.com/deadidlemmo/assistente-ponto-eletronico"><img src="assets/view-code.svg" alt="Ver código do Assistente de Ponto Eletrônico" width="220" /></a></p>
+
+Conferência de marcações e preparo de justificativas, com revisão e consulta após o envio. **Versão 3.50.0 em teste.**
 
 ## Atividade no GitHub
 

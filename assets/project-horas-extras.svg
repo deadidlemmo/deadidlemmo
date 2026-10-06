@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="144" viewBox="0 0 900 144" role="img" aria-labelledby="title desc">
+  <title id="title">Horas Extras</title>
+  <desc id="desc">Userscript para lançamento em lote e conferência de horas extras.</desc>
+  <rect x="1" y="1" width="898" height="142" rx="14" fill="#161b22" stroke="#303d35" stroke-width="2"/>
+  <path d="M2 2h194M2 142h130" stroke="#6e9f43" stroke-width="4"/>
+  <rect x="30" y="29" width="7" height="7" fill="#9cdd64"/>
+  <text x="49" y="36" fill="#9cdd64" font-family="Cascadia Code, Consolas, monospace" font-size="13" letter-spacing="2">USERSCRIPT · TAMPERMONKEY</text>
+  <text x="28" y="89" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Horas Extras</text>
+  <text x="30" y="122" fill="#b7c9ba" font-family="Segoe UI, Arial, sans-serif" font-size="18">Lançamento em lote e conferência de registros</text>
+  <circle cx="792" cy="74" r="40" fill="none" stroke="#5f8060" stroke-width="2"/>
+  <path d="M792 46v28l19 13M792 27v10m0 74v10m-47-47h10m74 0h10" fill="none" stroke="#9cdd64" stroke-width="3" stroke-linecap="round"/>
+</svg>
