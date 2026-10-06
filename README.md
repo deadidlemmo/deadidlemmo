@@ -69,7 +69,7 @@ Uma central interna para solicitações, banco de horas, relatórios e comunica�
 <p>O gráfico de contribuições do próprio GitHub aparece logo abaixo deste README. Ele mostra a evolução da atividade ao longo do ano.</p>
 
 <p align="center">
-  <a href="https://github.com/deadidlemmo?tab=overview"><img src="assets/link-activity.svg" alt="Ver contribuições e atividade recente" width="208" /></a>
+  <a href="#js-contribution-activity"><img src="assets/link-activity.svg" alt="Ver contribuições e atividade recente" width="208" /></a>
   <a href="https://github.com/deadidlemmo?tab=repositories"><img src="assets/link-repositories.svg" alt="Explorar repositórios" width="208" /></a>
 </p>
 
