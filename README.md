@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  <a href="#tecnologias">Tecnologias</a> ·
-  <a href="#projetos-em-destaque">Projetos</a> ·
-  <a href="#atividade-no-github">Atividade</a>
+  <a href="#tecnologias"><img src="assets/nav-technologies.svg" alt="Ir para Tecnologias" width="122" /></a>
+  <a href="#projetos-em-destaque"><img src="assets/nav-projects.svg" alt="Ir para Projetos" width="122" /></a>
+  <a href="#atividade-no-github"><img src="assets/nav-activity.svg" alt="Ir para Atividade" width="122" /></a>
 </p>
 
 ## Tecnologias
@@ -69,8 +69,8 @@ Uma central interna para solicitações, banco de horas, relatórios e comunica�
 <p>O gráfico de contribuições do próprio GitHub aparece logo abaixo deste README. Ele mostra a evolução da atividade ao longo do ano.</p>
 
 <p align="center">
-  <a href="https://github.com/deadidlemmo?tab=overview">Ver contribuições e atividade recente</a> ·
-  <a href="https://github.com/deadidlemmo?tab=repositories">Explorar repositórios</a>
+  <a href="https://github.com/deadidlemmo?tab=overview"><img src="assets/link-activity.svg" alt="Ver contribuições e atividade recente" width="208" /></a>
+  <a href="https://github.com/deadidlemmo?tab=repositories"><img src="assets/link-repositories.svg" alt="Explorar repositórios" width="208" /></a>
 </p>
 
 <h3 align="center">Linguagens dos repositórios públicos</h3>
