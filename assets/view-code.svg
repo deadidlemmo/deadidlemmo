@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="44" viewBox="0 0 220 44" role="img" aria-label="Ver código no GitHub">
+  <rect x="1" y="1" width="218" height="42" rx="8" fill="#161b22" stroke="#6e9f43" stroke-width="2"/>
+  <path d="M20 15l-7 7 7 7m11-14l7 7-7 7m-8-16l-5 30" fill="none" stroke="#9cdd64" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="51" y="28" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">VER CÓDIGO</text>
+  <path d="M190 15h10v10m-10 0l10-10" fill="none" stroke="#9cdd64" stroke-width="2"/>
+</svg>
