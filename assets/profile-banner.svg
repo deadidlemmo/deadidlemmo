@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Nilson Cruz</title>
+  <desc id="desc">Banner azul escuro com o nome Nilson Cruz e as áreas de desenvolvimento web, automação e produtos digitais.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0b1530"/>
+      <stop offset="1" stop-color="#132b49"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#39d9c4"/>
+      <stop offset="1" stop-color="#7ca9ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="1090" cy="50" r="220" fill="#39d9c4" opacity=".055"/>
+  <circle cx="1030" cy="300" r="180" fill="#7ca9ff" opacity=".08"/>
+  <path d="M870 85h165m-165 46h245m-245 46h185m-185 46h225" stroke="#7ca9ff" stroke-width="2" opacity=".25"/>
+  <path d="M870 85h62m-62 92h110m-110 46h75" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <rect x="64" y="66" width="7" height="190" rx="3.5" fill="url(#accent)"/>
+  <text x="104" y="116" fill="#39d9c4" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="3">DESENVOLVIMENTO &amp; AUTOMAÇÃO</text>
+  <text x="100" y="197" fill="#f5f8ff" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700">Nilson Cruz</text>
+  <text x="104" y="244" fill="#b9c9df" font-family="Arial, Helvetica, sans-serif" font-size="23">Aplicações web · Sistemas úteis · Produtos digitais</text>
+</svg>
