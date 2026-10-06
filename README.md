@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Nilson Cruz — desenvolvimento de produtos digitais e automações" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Nilson Cruz — sistemas web para educação e jogos" width="100%" />
 </p>
 
 <h1 align="center">Olá, eu sou Nilson Cruz 👋</h1>
 
 <p align="center">
-  Desenvolvo aplicações web, automações e ferramentas que resolvem problemas reais — de rotinas escolares a jogos e produtos digitais.
+  Desenvolvo aplicações web para transformar rotinas de trabalho e criar experiências digitais. Aqui estão três projetos que mostram esse trabalho, de sistemas escolares a um jogo online.
 </p>
 
 <p align="center">
@@ -18,19 +18,15 @@
 
 ### [MMORPG Idle Zumbi](https://github.com/deadidlemmo/mmorpg-idle-zumbi) · [Jogar](https://deadidle.pages.dev/)
 
-Jogo de sobrevivência com progressão idle, combate, coleta, criação de itens e eventos em tempo real. **React · TypeScript · NestJS · Prisma · PostgreSQL · Redis**
+Um jogo online de sobrevivência com progressão idle, combate, coleta, criação de itens e eventos em tempo real. **React · TypeScript · NestJS · Prisma · PostgreSQL · Redis**
 
 ### [Secretaria PADIN](https://github.com/deadidlemmo/secretariapadin)
 
-Ferramentas para documentos, carteirinhas, planilhas e conferência de listas escolares. **Python · Flask · pandas · openpyxl**
+Um sistema para gerar documentos e carteirinhas, organizar planilhas e conferir listas escolares. **Python · Flask · pandas · openpyxl**
 
 ### [Gestão PADIN](https://github.com/deadidlemmo/gestao-padin)
 
-Sistema interno para solicitações, banco de horas, relatórios e comunicação da unidade escolar. **Python · Flask · HTML**
-
-### [Nilux TV Site](https://github.com/deadidlemmo/nilux-tv-site)
-
-Página de planos com fluxo de checkout preparado para um Worker de pagamentos. **JavaScript · Cloudflare Workers · D1**
+Uma central interna para solicitações, banco de horas, relatórios e comunicação da unidade escolar. **Python · Flask · SQLAlchemy · HTML**
 
 ## Como eu trabalho
 
@@ -43,8 +39,9 @@ Página de planos com fluxo de checkout preparado para um Worker de pagamentos. 
 **Frontend:** React · TypeScript · JavaScript · HTML · CSS
 
 **Backend e dados:** Python · Flask · NestJS · PostgreSQL · Prisma · Redis
-**Entrega:** GitHub Actions · Docker · Cloudflare Workers e Pages
+
+**Entrega:** GitHub Actions · Docker · Cloudflare Pages
 
 ## Explore
 
-Cada repositório tem contexto, funcionalidades e instruções próprias. Comece pelo [MMORPG Idle Zumbi](https://github.com/deadidlemmo/mmorpg-idle-zumbi) para ver um produto completo ou pela [Secretaria PADIN](https://github.com/deadidlemmo/secretariapadin) para conhecer uma solução criada para uma rotina de trabalho real.
+Cada repositório explica o problema atendido, as funcionalidades e como executar o projeto. Comece pelo [MMORPG Idle Zumbi](https://github.com/deadidlemmo/mmorpg-idle-zumbi) para explorar uma aplicação completa ou pelos sistemas [Secretaria PADIN](https://github.com/deadidlemmo/secretariapadin) e [Gestão PADIN](https://github.com/deadidlemmo/gestao-padin) para conhecer soluções de trabalho real.
